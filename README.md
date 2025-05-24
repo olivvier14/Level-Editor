@@ -8,6 +8,7 @@
 - when other tile is placed on background tile, when the level is saved and loaded, the background tile will dissapear and the tile placed on it will be visible.
 - when the menu bar is hidden and spawn position is placed, every gui element may appear.
 - if the level is made with snap grid off and is saved and loaded, meaningless if the snap grid is on or off, the saved tiles will be still loaded as snapped to the grid.
+- if the X and Y coordinates are set to visible, they sometimes may remain visible when testing.
 - the character settings are not saved to a file, planning to fix this soon.
 
 ## 📜 Change-Log
