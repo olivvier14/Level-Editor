@@ -46,8 +46,8 @@ thanks for trying out the beta – your support means a lot.
 
 please read the [Change-log](README.md#-change-log) to see the changes in each released version available.
 
-[v0.2.0](https://mega.nz/folder/BvExTC6S#M36OhlK_zaoVeOFN8x7rRg)
+# [v0.2.0](https://mega.nz/folder/BvExTC6S#M36OhlK_zaoVeOFN8x7rRg)
 
-[v0.1.1](https://mega.nz/file/l7l30LwK#3t4fg3-89excWSyENKXvFjhaW6QH8mcPotCnR5txn8A)
+# [v0.1.1](https://mega.nz/file/l7l30LwK#3t4fg3-89excWSyENKXvFjhaW6QH8mcPotCnR5txn8A)
 
-[v0.1.0](https://mega.nz/file/Vmc3SL7T#L2gY7GBDWv76Ya9KPIeLvCM3qdHX4ydYQtQBmPjyEzc)
+# [v0.1.0](https://mega.nz/file/Vmc3SL7T#L2gY7GBDWv76Ya9KPIeLvCM3qdHX4ydYQtQBmPjyEzc)
