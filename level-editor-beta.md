@@ -34,7 +34,7 @@ this software is provided **"as-is"**, without any warranties.
 
 ## 📫 Feedback
 
-if you encounter bugs (in v0.2.0 most of them are known, read [README](README.md#known-issues) to learn more), have ideas for improvements, or simply want to leave feedback, feel free to open an issue on this repository.
+if you encounter bugs (in v0.2.0 most of them are known, read [README](README.md#-known-issues) to learn more), have ideas for improvements, or simply want to leave feedback, feel free to open an issue on this repository.
 
 ---
 
