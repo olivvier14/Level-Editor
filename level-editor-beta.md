@@ -1,4 +1,4 @@
-# downloads are on the bottom.
+# [downloads](#-downloads) are on the bottom.
 
 ---
 
