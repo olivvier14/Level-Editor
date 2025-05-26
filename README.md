@@ -1,6 +1,7 @@
 # Level-Editor
 
 👉 this is a simple level editor made in clickteam fusion 2.5, an old program used to make simple or mid advanced games and applications.
+
 ‼️ please note that the development of this application is currently paused due to focus shifting towards other projects and ongoing issues with the program used for development.
 
 ---
