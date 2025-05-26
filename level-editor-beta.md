@@ -44,7 +44,7 @@ thanks for trying out the beta – your support means a lot.
 
 # 📁 Downloads
 
-please read [Change-log](README.md#-change-log) to see the changes in each released version available.
+please read the [Change-log](README.md#-change-log) to see the changes in each released version available.
 
 [v0.2.0](https://mega.nz/folder/BvExTC6S#M36OhlK_zaoVeOFN8x7rRg)
 
