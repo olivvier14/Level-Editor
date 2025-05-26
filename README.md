@@ -23,7 +23,7 @@ this application was developed using Clickteam Fusion 2.5, which unfortunately i
 
 ---
 
-# 📜 Change-Log
+# 📜 Change-log
 
 # > v0.2.0
 - ?
