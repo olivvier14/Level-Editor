@@ -1,7 +1,4 @@
-# Level Editor
-
-welcome to the **beta version** of the Level Editor.
-you can find the download link on the bottom.
+# you can find the download links on the bottom.
 
 ---
 
