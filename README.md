@@ -19,7 +19,7 @@ this application was developed using Clickteam Fusion 2.5, which unfortunately i
 - if the level is made with snap grid off and is saved and loaded, meaningless if the snap grid is on or off, the saved tiles will be still loaded as snapped to the grid.
 - if the X and Y coordinates are set to visible, they sometimes may remain visible when testing.
 - the character settings are not saved to a file, planning to fix this soon.
-- when the camera object is used when testing, the editor zoom may break entirely.
+- when the camera zoom object is used when testing, the editor zoom may break entirely.
 
 ---
 
