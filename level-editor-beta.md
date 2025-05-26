@@ -1,4 +1,4 @@
-# you can find the download links on the bottom.
+# downloads are on the bottom.
 
 ---
 
